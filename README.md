@@ -7,5 +7,6 @@
 ## Main Repo
 https://github.com/tloen/alpaca-lora
 
-## Model
+## Models
 https://huggingface.co/decapoda-research/llama-7b-hf
+https://huggingface.co/tloen/alpaca-lora-7b
