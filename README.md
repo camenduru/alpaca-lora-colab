@@ -8,8 +8,9 @@
 <!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/alpaca-lora/blob/main/alpaca_lora.ipynb) | Alpaca Lora 7b (T4) 13b (A100) -->
 
 ## Main Repo
-https://github.com/deep-diver/Alpaca-LoRA-Serve
-https://github.com/tloen/alpaca-lora
+https://github.com/huggingface/transformers <br />
+https://github.com/deep-diver/Alpaca-LoRA-Serve <br />
+https://github.com/tloen/alpaca-lora <br />
 
 ## Model
 https://huggingface.co/decapoda-research/llama-13b-hf <br />
